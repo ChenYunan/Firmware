@@ -1,0 +1,8 @@
+#!nsh
+#
+# @name 3DR Iris Quadrotor SITL (rplidar)
+#
+# @type Quadrotor Wide
+#
+
+sh /etc/init.d-posix/10016_iris
